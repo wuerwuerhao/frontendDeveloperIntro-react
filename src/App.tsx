@@ -63,7 +63,7 @@ const STATS = [
 ]
 
 const SOCIAL_LINKS = [
-  { labelKey: "GitHub", href: "#" },
+  { labelKey: "GitHub", href: "https://github.com/wuerwuerhao/frontendDeveloperIntro-react" },
   { labelKey: "CSDN", href: "#" },
   { labelKey: "Resume", href: "#" },
 ]

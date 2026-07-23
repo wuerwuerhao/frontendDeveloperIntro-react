@@ -871,6 +871,8 @@ function Contact() {
             <a
               key={labelKey}
               href={href}
+              target="_blank"
+              rel="noopener noreferrer"
               className="font-mono text-xs transition-colors duration-200"
               style={{ color: "var(--color-muted)" }}
               onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.color = "var(--color-mint)" }}
